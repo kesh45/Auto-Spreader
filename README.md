@@ -4,4 +4,4 @@ and inflict serious self damage on your machine memory.
 
 Can spread it via Seeding in the torrent by using Torrentator
 
-Credit to Dark-Raidr
+Credit to Dark-Raidr/kesh45
